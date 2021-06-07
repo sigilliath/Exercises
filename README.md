@@ -20,8 +20,8 @@ Exercise 3 done on 16.05.2021. Program has a list of numbers. This one was to le
 # Ex4
 Exercise 4 done on 17.05.2021. In this exercise I had to make a program which calculated and printed all divisors of user input number.
 
-#Ex5
+# Ex5
 Exercise 5 done on 18.05.2021. Program has two lists. The task is to build a third list containing elements which are both in list a and b. First Extra does the same but for randomly generated lists, and Extra 2 is main task but written in one line of code.
 
-#Ex6
+# Ex6
 Exercise 6 done on 20.05.2021. It was to make a program which checks if input word (string) is a palyndrome. I also made the same thing but in one line of code. This program is written in polish language.
