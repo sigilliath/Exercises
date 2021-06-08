@@ -25,3 +25,9 @@ Exercise 5 done on 18.05.2021. Program has two lists. The task is to build a thi
 
 # Ex6
 Exercise 6 done on 20.05.2021. It was to make a program which checks if input word (string) is a palyndrome. I also made the same thing but in one line of code. This program is written in polish language.
+
+# Ex7
+Exercise 7 done on 20.05.2021. It is a list comprehension exercise. I was tasked to write a one line of code which would take a list and print another one with only even numbers from first list.
+
+# Ex8
+Exercise 8 done on 20.05.2021r. It is a program which lets two players play a game of 'Rock, Paper, Scissor'. Unfortunately, I still don't know how to hide player input from another player but other than that the program is fully operatable.
