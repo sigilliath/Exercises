@@ -30,4 +30,19 @@ Exercise 6 done on 20.05.2021. It was to make a program which checks if input wo
 Exercise 7 done on 20.05.2021. It is a list comprehension exercise. I was tasked to write a one line of code which would take a list and print another one with only even numbers from first list.
 
 # Ex8
-Exercise 8 done on 20.05.2021r. It is a program which lets two players play a game of 'Rock, Paper, Scissor'. Unfortunately, I still don't know how to hide player input from another player but other than that the program is fully operatable.
+Exercise 8 done on 20.05.2021. It is a program which lets two players play a game of 'Rock, Paper, Scissor'. Unfortunately, I still don't know how to hide player input from another player but other than that the program is fully operatable.
+
+# Ex9
+Exercise 9 done on 20.05.2021. It is a game of guessing a number 0-9. It has the function of counting number of player guesses and keeping score.
+
+# Ex10
+Exercise 10 done on 20.05.2021. It randomly generates two lists and creates third one containing only common elements without duplicates.
+
+# Ex11
+Exercise 11 done on 20.05.2021. It checks if user input number is a prime number. Wish I had this program in elementary school.
+
+# Ex12
+Exercise 12 done on 20.05.2021. This was a first function definition exercise. I wrote a function which takes first and last element of any list and adds it to another list.
+
+# Ex13
+Exercise 13 done on 20.05.2021. This program asks for input number and prints that much Fibonacci numbers.
