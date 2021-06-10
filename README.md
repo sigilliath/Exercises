@@ -21,19 +21,19 @@ Exercise 3 done on 16.05.2021. Program has a list of numbers. This one was to le
 Exercise 4 done on 17.05.2021. In this exercise I had to make a program which calculated and printed all divisors of user input number.
 
 # Ex5
-Exercise 5 done on 18.05.2021. Program has two lists. The task is to build a third list containing elements which are both in list a and b. First Extra does the same but for randomly generated lists, and Extra 2 is main task but written in one line of code.
+Exercise 5 done on 17.05.2021. Program has two lists. The task is to build a third list containing elements which are both in list a and b. First Extra does the same but for randomly generated lists, and Extra 2 is main task but written in one line of code.
 
 # Ex6
-Exercise 6 done on 20.05.2021. It was to make a program which checks if input word (string) is a palyndrome. I also made the same thing but in one line of code. This program is written in polish language.
+Exercise 6 done on 18.05.2021. It was to make a program which checks if input word (string) is a palyndrome. I also made the same thing but in one line of code. This program is written in polish language.
 
 # Ex7
-Exercise 7 done on 20.05.2021. It is a list comprehension exercise. I was tasked to write a one line of code which would take a list and print another one with only even numbers from first list.
+Exercise 7 done on 18.05.2021. It is a list comprehension exercise. I was tasked to write a one line of code which would take a list and print another one with only even numbers from first list.
 
 # Ex8
-Exercise 8 done on 20.05.2021. It is a program which lets two players play a game of 'Rock, Paper, Scissor'. Unfortunately, I still don't know how to hide player input from another player but other than that the program is fully operatable.
+Exercise 8 done on 18.05.2021. It is a program which lets two players play a game of 'Rock, Paper, Scissor'. Unfortunately, I still don't know how to hide player input from another player but other than that the program is fully operatable.
 
 # Ex9
-Exercise 9 done on 20.05.2021. It is a game of guessing a number 0-9. It has the function of counting number of player guesses and keeping score.
+Exercise 9 done on 18.05.2021. It is a game of guessing a number 0-9. It has the function of counting number of player guesses and keeping score.
 
 # Ex10
 Exercise 10 done on 20.05.2021. It randomly generates two lists and creates third one containing only common elements without duplicates.
@@ -46,3 +46,9 @@ Exercise 12 done on 20.05.2021. This was a first function definition exercise. I
 
 # Ex13
 Exercise 13 done on 20.05.2021. This program asks for input number and prints that much Fibonacci numbers.
+
+# Ex14
+Exercise 14 done on 21.05.2021. This program is another list comprehension exercise. The program takes first list and makes another one without duplicates. The exercise was to use two different methods to get the same outcome. One was a list comprehension method and the second was using sets.
+
+# Ex15
+Exercise 15 done on 21.05.2021. This program takes input of words from user and prints it from last word to first.
